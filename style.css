@@ -1,0 +1,45 @@
+body{
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+}
+.Container{
+    background-color: rgb(244, 244, 244);
+    height: 650px; 
+    margin: 100px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: red;
+    padding: 1px;
+}
+.img{
+    height: 30px;
+    width: 40px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+}
+h1,li,ul{
+    float: right;
+    display: inline;
+}
+h1{
+    float: left;
+}
+.gotham{
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-position: right;
+    margin-right: auto;
+    margin-left: 13px;
+}
+.city{
+    height: 200px;
+    width: 200px;
+    margin-right: auto;
+    margin-left: 13px;
+    
+}
